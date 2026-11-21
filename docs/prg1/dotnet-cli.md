@@ -1,7 +1,7 @@
 # Polecenia:
 | Polecenie | Przykład | Opis |
 | :--- | :--- | :--- |
-|<mark> *dotnet* --version* </mark> | dotnet --version | Sprawdzenie zainstalowanej wersji zestawu .NET SDK. |
+|<mark> *dotnet --version* </mark> | dotnet --version | Sprawdzenie zainstalowanej wersji zestawu .NET SDK. |
 | <mark>*dotnet --list-sdks* </mark> | dotnet --list-sdks | 	Wyświetlenie wszystkich dostępnych wersji SDK. |
 | <mark>*dotnet new list* </mark> | dotnet new list | Wyświetlenie dostępnych szablonów projektów.|
 | <mark>*dotnet new console* </mark>| dotnet new console | Utworzenie aplikacji konsolowej w bieżącym katalogu.
