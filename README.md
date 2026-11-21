@@ -14,5 +14,4 @@
 >3. PRG
 
 
-# Twój dokument
-Treść pliku na nowym tle.
+
