@@ -1,8 +1,8 @@
 # student-it-knowledge-base
 
-## Praca zespołowa
-
-*Wiktorii i Roksany*
+>[!NOTE]
+>## Praca zespołowa
+>*Wiktorii i Roksany*
 
 ## Repozytorium zawiera:
 1. UKOS
