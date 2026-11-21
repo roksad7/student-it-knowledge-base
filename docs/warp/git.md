@@ -1,6 +1,6 @@
 # Polecenie, przykład użycia i opis działania
 
-*git clon	git clone URL	Pobranie repozytorium i utworzenie lokalnego katalogu.
+* git clone URL	Pobranie repozytorium i utworzenie lokalnego katalogu.
 ---
 * git status	git status	Sprawdzenie gałęzi oraz plików zmienionych i przygotowanych.
 ---
